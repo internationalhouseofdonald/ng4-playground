@@ -1,0 +1,18 @@
+The ABC's of Mastering Web Development:
+
+Angular 4
+Bootstrap
+CreateJS
+
+Angular 4
+module
+component
+template
+CDN Bootstrap & CreateJS
+canvas
+stage
+etc...
+
+GitHub
+/dist
+Netlify
